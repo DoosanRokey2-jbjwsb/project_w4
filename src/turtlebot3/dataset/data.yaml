@@ -1,0 +1,7 @@
+names:
+        0: red
+        1: blue
+        2: purple
+
+train: /home/rokey/Desktop/dataset/images/train
+val: /home/rokey/Desktop/dataset/images/val
